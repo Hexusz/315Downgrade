@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "315Downgrade", "315Downgrade\315Downgrade.csproj", "{1A5ECFB4-54B1-4A2F-9AD0-6FF612014D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5ECFB4-54B1-4A2F-9AD0-6FF612014D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5ECFB4-54B1-4A2F-9AD0-6FF612014D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5ECFB4-54B1-4A2F-9AD0-6FF612014D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5ECFB4-54B1-4A2F-9AD0-6FF612014D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD851919-0E27-4A0E-AA19-00A09553FDDF}
+	EndGlobalSection
+EndGlobal
